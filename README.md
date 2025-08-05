@@ -5,6 +5,8 @@
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </h2> 
 
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=HazemMohamdCr7)
+
 ---
 
 <h2 align="left">🛠 Technologies & Tools:</h2>
@@ -20,11 +22,11 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- 🎓 I'm a Computer Science student
-- 👨‍💻 Currently learning Web Development
-- 🧠 Strong background in C++
-- 🏆 Participant in ECPC 2025
-- 🏋️ I love coding, hitting the gym, and chilling with close people
+- 🎓 I'm a Computer Science student  
+- 👨‍💻 Currently learning Web Development  
+- 🧠 Strong background in C++  
+- 🏆 Participant in ECPC 2025  
+- 🏋️ I love coding, hitting the gym, and spending time with close people  
 - 💡 Motto: **"You never fail, until you stop trying 🤥"**
 
 ---
